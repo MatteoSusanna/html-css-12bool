@@ -16,6 +16,9 @@
 }
 /*contenitori*/
 
+
+
+/*Regole aggiuntive flex*/
 .center{
     justify-content: center;
 }
@@ -23,6 +26,18 @@
 .right{
     justify-content: flex-end;
 }
+
+.self-center{
+    align-self: center;
+}
+
+.self-end{
+    align-self: flex-end;
+}
+/*Regole aggiuntive flex*/
+
+
+
 
 
 .row{
