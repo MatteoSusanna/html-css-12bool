@@ -12,6 +12,10 @@
     background-color: green;
 }
 
+.box-black{
+    background-color: black;
+}
+
 .box-perimetro{
     background-color: #00e165;
     border: 1px solid white;
