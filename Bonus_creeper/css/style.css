@@ -1,0 +1,24 @@
+:root{
+    --verde-scuro:#207a16;
+    --verde-chiaro: #55b355;
+    --nero: black;
+}
+.box-scuro{
+    width: 100%;
+    height: 50px;
+    background-color: var(--verde-scuro);
+    border: 1px solid #4b4e53;
+}
+
+.box-chiaro{
+    background-color: var(--verde-chiaro);
+    border: 1px solid #4b4e53;
+    height: 50px;
+}
+
+.box-nero{
+    background-color: var(--nero);
+    border: 1px solid #4b4e53;
+    height: 50px;
+}
+
