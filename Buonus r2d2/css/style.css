@@ -1,0 +1,38 @@
+:root{
+    --nero: #000;
+    --blu: #0057a7;
+    --grigio: #61615f;
+    --rosso: #fe0002;
+    --bianco: white;
+}
+
+.box-nero{
+    width: 100%;
+    height: 20px;
+    background-color: var(--nero);
+    border: 1px solid #4b4e53;
+}
+
+.box-blu{
+    background-color: var(--blu);
+    border: 1px solid #4b4e53;
+    height: 20px;
+}
+
+.box-grigio{
+    background-color: var(--grigio);
+    border: 1px solid #4b4e53;
+    height: 20px;
+}
+
+.box-rosso{
+    background-color: var(--rosso);
+    border: 1px solid #4b4e53;
+    height: 20px;
+}
+
+.box-bianco{
+    background-color: var(--bianco);
+    border: 1px solid #4b4e53;
+    height: 20px;
+}
